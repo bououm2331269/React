@@ -1,0 +1,182 @@
+{
+  "publications": [
+    {
+      "id": "1",
+      "image": "../image/Peony-Radiation.jpg",
+      "auteur": "Ouma",
+      "title": "CEPI - Centre d'expertise et de perfectionnement en informatique",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit veniam velit atque unde, eos repellendus illum.",
+      "date": "2025-01-01"
+    },
+    {
+      "id": "2",
+      "image": "../image/Peony-Radiation.jpg",
+      "auteur": "Ouma",
+      "title": "CEPI - Centre d'expertise et de perfectionnement en informatique",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit veniam velit atque unde, eos repellendus illum.",
+      "date": "2025-02-02"
+    },
+    {
+      "id": "3",
+      "image": "../image/Peony-Radiation.jpg",
+      "auteur": "Ouma",
+      "title": "CEPI - Centre d'expertise et de perfectionnement en informatique",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit veniam velit atque unde, eos repellendus illum.",
+      "date": "2024-12-01"
+    },
+    {
+      "id": "4",
+      "image": "../image/Peony-Radiation.jpg",
+      "auteur": "Ouma",
+      "title": "CEPI - Centre d'expertise et de perfectionnement en informatique",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit veniam velit atque unde, eos repellendus illum.",
+      "date": "2024-09-06"
+    },
+    {
+      "id": "5",
+      "image": "../image/Peony-Radiation.jpg",
+      "auteur": "Ouma",
+      "title": "CEPI - Centre d'expertise et de perfectionnement en informatique",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit veniam velit atque unde, eos repellendus illum.",
+      "date": "2024-06-08"
+    },
+    {
+      "id": "6",
+      "image": "../image/Peony-Radiation.jpg",
+      "auteur": "Ouma",
+      "title": "CEPI - Centre d'expertise et de perfectionnement en informatique",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit veniam velit atque unde, eos repellendus illum.",
+      "date": "2024-01-09"
+    },
+    {
+      "id": "7",
+      "image": "../image/Peony-Radiation.jpg",
+      "auteur": "Ouma",
+      "title": "CEPI - Centre d'expertise et de perfectionnement en informatique",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit veniam velit atque unde, eos repellendus illum.",
+      "date": "2023-06-12"
+    },
+    {
+      "id": "12346",
+      "image": "../image/Peony-Radiation.jpg",
+      "auteur": "Ouma",
+      "title": "CEPI",
+      "description": "cool",
+      "date": "2025-02-26T05:39:15.415Z"
+    },
+    {
+      "id": "d69ae",
+      "image": "../image/Peony-Radiation.jpg",
+      "auteur": "Ouma",
+      "title": "CEPI",
+      "description": "cool",
+      "date": "2025-02-28T16:57:42.708Z"
+    },
+    {
+      "id": "a51cc",
+      "image": "../image/Peony-Radiation.jpg",
+      "auteur": "Ouma",
+      "title": "CEPI",
+      "description": "cool",
+      "date": "2025-02-28T16:58:38.596Z"
+    }
+  ],
+  "commentaires": [
+    {
+      "id": "1",
+      "idPublication": 1,
+      "datePublication": "2025-01-01",
+      "contenu": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quidem."
+    },
+    {
+      "id": "2",
+      "idPublication": 2,
+      "datePublication": "2025-02-02",
+      "contenu": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quidem."
+    },
+    {
+      "id": "3",
+      "idPublication": 3,
+      "datePublication": "2024-12-01",
+      "contenu": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quidem."
+    },
+    {
+      "id": "4",
+      "idPublication": 4,
+      "datePublication": "2024-09-06",
+      "contenu": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quidem."
+    },
+    {
+      "id": "5",
+      "idPublication": 5,
+      "datePublication": "2024-06-08",
+      "contenu": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quidem."
+    },
+    {
+      "id": "6",
+      "idPublication": 6,
+      "datePublication": "2024-01-09",
+      "contenu": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quidem."
+    },
+    {
+      "id": "7",
+      "idPublication": 7,
+      "datePublication": "2023-06-12",
+      "contenu": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quidem."
+    },
+    {
+      "id": "8",
+      "idPublication": 2,
+      "datePublication": "2025-06-12",
+      "contenu": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quidem."
+    },
+    {
+      "id": "9",
+      "idPublication": 3,
+      "datePublication": "2025-06-12",
+      "contenu": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quidem."
+    },
+    {
+      "id": "10",
+      "idPublication": 4,
+      "datePublication": "2024-06-12",
+      "contenu": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quidem."
+    },
+    {
+      "id": "11",
+      "idPublication": 5,
+      "datePublication": "2023-10-12",
+      "contenu": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quidem."
+    },
+    {
+      "id": "12",
+      "idPublication": 6,
+      "datePublication": "2023-06-12",
+      "contenu": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quidem."
+    },
+    {
+      "id": "16126",
+      "idPublication": "1",
+      "datePublication": "2025-02-28T15:21:52.488Z",
+      "contenu": "cool"
+    },
+    {
+      "id": "c8d7",
+      "idPublication": "1",
+      "datePublication": "2025-03-18T04:46:45.106Z",
+      "contenu": "coucou"
+    },
+    {
+      "id": "0d74",
+      "idPublication": "5",
+      "datePublication": "2025-03-19T14:42:27.516Z",
+      "contenu": "jkjiji"
+    },
+    {
+      "id": "4a42",
+      "idPublication": "1",
+      "datePublication": "2025-03-21T12:31:16.114Z",
+      "contenu": "salut"
+    }
+  ]
+}

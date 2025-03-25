@@ -1,0 +1,20 @@
+{
+  "name": "lab_conception_et_visuel",
+  "version": "1.0.0",
+  "description": "Laboratoire_Conception",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass script_CSS/labConception.sass style.css",
+    "api": "json-server --watch cepi.json"
+  },
+  "author": "Ouma",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "json-server": "^1.0.0-beta.3"
+  },
+  "devDependencies": {
+    "sass": "^1.85.1"
+  }
+}
