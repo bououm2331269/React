@@ -1,6 +1,5 @@
 function App() {
   return<><Header />
-  <Search />
   <BlogList />
   <Footer />
    </>
